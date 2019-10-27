@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TalkingClock/1.0.0": {
+        "runtime": {
+          "TalkingClock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TalkingClock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
